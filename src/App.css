@@ -30,3 +30,14 @@
     transform: rotate(360deg);
   }
 }
+.LoginForm{
+  margin:20px 0px 0px 20px;
+}
+.marginTop{
+  margin-top: 10px;
+}
+.fixedBottomRight{
+  position: fixed;
+  bottom: 8px;
+  right: 90px;
+}
